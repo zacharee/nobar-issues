@@ -22,8 +22,8 @@ If applicable, add screenshots or recordings to help explain your problem.
 
 **Smartphone (please complete the following information):**
  - Device: [e.g. iPhone6]
- - Android Version [e.g. 22]
- - Navigation Gestures version: [e.g 1.4.0-18_12_02_1010_57]
+ - Android Version: [e.g. Oreo, e.g. 7.1.2, e.g. 28]
+ - Navigation Gestures version: [e.g. 1.4.0-18_12_02_1010_57]
 
 **Additional context**
 Add any other context about the problem here.
